@@ -1,0 +1,2 @@
+Nodejs is a platforn=m that utilizes javascript and is the primarily employed for developing web applications that are highly focused on input/output operations , including but not listed to cut applications and multimedia streaming websites . the platform is constructed using Google chrome  V8 engine .  A web application is a type of software that executes on server and is displayed by client  browser that obtains all the application resources over internet
+   

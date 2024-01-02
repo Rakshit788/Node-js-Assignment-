@@ -1,0 +1,1 @@
+Node.js is a platform that uses the V8 JavaScript engine, allowing developers to use JavaScript to create server-side applications that generate dynamic content for web applications. Node.js is known for its event-driven and non-blocking I/O features.
